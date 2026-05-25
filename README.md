@@ -231,7 +231,7 @@ npm start
 
 ## License
 
-MIT
+MIT & @komilovsg
 
 ## Support
 
